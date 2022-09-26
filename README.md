@@ -3,7 +3,7 @@
 
 How to Run -
 
-Go to the Termonal type -   npm intall . 
+Go to the Terminal type -   npm install . 
 
 Connect the Database through  MongoDB Cloud .
 
