@@ -1,0 +1,42 @@
+[{
+        "id": 1,
+        "Name": "Ayush Verma",
+        "Email": "Ayush1234@gmail.com"
+    },
+    {
+        "id": 2,
+        "Name": "Sachin Sharma",
+        "Email": "sk@gmail.com"
+    },
+    {
+        "id": 3,
+        "Name": "Rakhi chauhan",
+        "Email": "Rakhich987@gmail.com"
+    },
+    {
+        "id": 4,
+        "Name": "Ravi Sharma",
+        "Email": "Sharmaravi@gmail.com"
+    },
+    {
+        "id": 5,
+        "Name": "Manish Kumar",
+        "Email": "kumarmanish887@gmail.com"
+    },
+    {
+        "id": 6,
+        "Name": "raghu shetty",
+        "Email": "sheet987@gmail.com"
+    },
+    {
+        "id": 7,
+        "Name": "pawan Verma",
+        "Email": "verma6765@gmail.com"
+    },
+    {
+        "id": 8,
+        "Name": "Abhijeet singh",
+        "Email": "singhabhijeet@gmail.com"
+    }
+
+]
